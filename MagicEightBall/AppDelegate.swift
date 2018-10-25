@@ -2,9 +2,8 @@
 //  AppDelegate.swift
 //  MagicEightBall
 //
-//  Created by Kandy M on 10/24/18.
-//  Copyright © 2018 Kandy M. All rights reserved.
-//
+//  Created by Kandice McGhee on 10/25/18.
+
 
 import UIKit
 
@@ -14,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }

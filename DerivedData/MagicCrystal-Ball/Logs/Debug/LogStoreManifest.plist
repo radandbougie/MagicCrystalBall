@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>753A5A41-1D52-4F11-8596-567B83A7CC49</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>753A5A41-1D52-4F11-8596-567B83A7CC49.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MagicCrystal-Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MagicCrystal-Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug MagicCrystal-Ball</string>
+			<key>timeStartedRecording</key>
+			<real>562184830.99297798</real>
+			<key>timeStoppedRecording</key>
+			<real>562184856.99207306</real>
+			<key>title</key>
+			<string>Debug MagicCrystal-Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>753A5A41-1D52-4F11-8596-567B83A7CC49</string>
+		</dict>
+		<key>91643E4A-B73A-43D8-A58B-372585F1B01B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>91643E4A-B73A-43D8-A58B-372585F1B01B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MagicCrystal-Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MagicCrystal-Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug MagicCrystal-Ball</string>
+			<key>timeStartedRecording</key>
+			<real>562184886.03934598</real>
+			<key>timeStoppedRecording</key>
+			<real>562184938.12736201</real>
+			<key>title</key>
+			<string>Debug MagicCrystal-Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>91643E4A-B73A-43D8-A58B-372585F1B01B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "182cb625369326b976430f04de109316"
+build_time: [1540492015, 939660000]
+inputs:
+  "/Users/studentloaner11/Desktop/MagicCrystalBall-2/MagicEightBall/ViewController.swift": [1540487070, 0]
+  "/Users/studentloaner11/Desktop/MagicCrystalBall-2/MagicEightBall/AppDelegate.swift": [1540487068, 0]

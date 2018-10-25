@@ -1,0 +1,531 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "17MagicCrystal_Ball14ViewControllerC"
+provides-member:
+- ["17MagicCrystal_Ball14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "answerLabel"
+- "didReceiveMemoryWarning"
+- "motionEnded"
+- "shakeButton"
+- "shakeButtonTapped"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "Array"
+- "AssignmentPrecedence"
+- !private "Int"
+- "StringLiteralType"
+- "UIButton"
+- "UIEvent"
+- "UIEventSubtype"
+- "UILabel"
+- "UIViewController"
+- !private "UInt32"
+- "ViewController"
+- !private "arc4random_uniform"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "count"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["SK", "subscript"]
+- !private ["Sz", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "UInt32"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "answerLabel"]
+- !private ["s7CVarArgP", "answers"]
+- !private ["s7CVarArgP", "arc4random_uniform"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "count"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "UInt32"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "answerLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "answers"]
+- !private ["s28CustomDebugStringConvertibleP", "arc4random_uniform"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "UInt32"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "answerLabel"]
+- !private ["s23CustomStringConvertibleP", "answers"]
+- !private ["s23CustomStringConvertibleP", "arc4random_uniform"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "count"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "count"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "UInt32"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "answerLabel"]
+- !private ["SQ", "answers"]
+- !private ["SQ", "arc4random_uniform"]
+- !private ["SQ", "count"]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "motionShake"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["So14UIEventSubtypeV", "motionShake"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "Int"]
+- !private ["SH", "UInt32"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "answerLabel"]
+- !private ["SH", "answers"]
+- !private ["SH", "arc4random_uniform"]
+- !private ["SH", "count"]
+- !private ["SH", "didReceiveMemoryWarning"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "motionShake"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "Int"]
+- !private ["So8NSCodingP", "UInt32"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "answerLabel"]
+- !private ["So8NSCodingP", "answers"]
+- !private ["So8NSCodingP", "arc4random_uniform"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- !private ["So26NSExtensionRequestHandlingP", "UInt32"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "answerLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "answers"]
+- !private ["So26NSExtensionRequestHandlingP", "arc4random_uniform"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIEvent"]
+- ["So8NSObjectC", "UIEventSubtype"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "UInt32"]
+- ["So8NSObjectC", "answerLabel"]
+- ["So8NSObjectC", "answers"]
+- !private ["So8NSObjectC", "arc4random_uniform"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "generateAnswer"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "motionEnded"]
+- ["So8NSObjectC", "shakeButton"]
+- ["So8NSObjectC", "shakeButtonTapped"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Int"]
+- !private ["So8NSObjectP", "UInt32"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "answerLabel"]
+- !private ["So8NSObjectP", "answers"]
+- !private ["So8NSObjectP", "arc4random_uniform"]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", "init"]
+- !private ["Sq", "text"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "motionShake"]
+- !private ["ST", "count"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Int"]
+- !private ["So21UIAppearanceContainerP", "UInt32"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "answerLabel"]
+- !private ["So21UIAppearanceContainerP", "answers"]
+- !private ["So21UIAppearanceContainerP", "arc4random_uniform"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Int"]
+- !private ["So18UIContentContainerP", "UInt32"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "answerLabel"]
+- !private ["So18UIContentContainerP", "answers"]
+- !private ["So18UIContentContainerP", "arc4random_uniform"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Int"]
+- !private ["So18UIFocusEnvironmentP", "UInt32"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "answerLabel"]
+- !private ["So18UIFocusEnvironmentP", "answers"]
+- !private ["So18UIFocusEnvironmentP", "arc4random_uniform"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int"]
+- !private ["So30UIPasteConfigurationSupportingP", "UInt32"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "answerLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "answers"]
+- !private ["So30UIPasteConfigurationSupportingP", "arc4random_uniform"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIEvent"]
+- ["So11UIResponderC", "UIEventSubtype"]
+- ["So11UIResponderC", "UILabel"]
+- !private ["So11UIResponderC", "UInt32"]
+- ["So11UIResponderC", "answerLabel"]
+- ["So11UIResponderC", "answers"]
+- !private ["So11UIResponderC", "arc4random_uniform"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "generateAnswer"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "motionEnded"]
+- ["So11UIResponderC", "shakeButton"]
+- ["So11UIResponderC", "shakeButtonTapped"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Int"]
+- !private ["So30UIResponderStandardEditActionsP", "UInt32"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "answerLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "answers"]
+- !private ["So30UIResponderStandardEditActionsP", "arc4random_uniform"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Int"]
+- !private ["So16UIStateRestoringP", "UInt32"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "answerLabel"]
+- !private ["So16UIStateRestoringP", "answers"]
+- !private ["So16UIStateRestoringP", "arc4random_uniform"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Int"]
+- !private ["So18UITraitEnvironmentP", "UInt32"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "answerLabel"]
+- !private ["So18UITraitEnvironmentP", "answers"]
+- !private ["So18UITraitEnvironmentP", "arc4random_uniform"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Int"]
+- !private ["So23UIUserActivityRestoringP", "UInt32"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "answerLabel"]
+- !private ["So23UIUserActivityRestoringP", "answers"]
+- !private ["So23UIUserActivityRestoringP", "arc4random_uniform"]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIEvent"]
+- ["So16UIViewControllerC", "UIEventSubtype"]
+- ["So16UIViewControllerC", "UILabel"]
+- !private ["So16UIViewControllerC", "UInt32"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "answerLabel"]
+- ["So16UIViewControllerC", "answers"]
+- !private ["So16UIViewControllerC", "arc4random_uniform"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "generateAnswer"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "motionEnded"]
+- ["So16UIViewControllerC", "shakeButton"]
+- ["So16UIViewControllerC", "shakeButtonTapped"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s6UInt32V", "init"]
+- !private ["SU", "init"]
+- !private ["17MagicCrystal_Ball14ViewControllerC", "Int"]
+- ["17MagicCrystal_Ball14ViewControllerC", "UIButton"]
+- ["17MagicCrystal_Ball14ViewControllerC", "UIEvent"]
+- ["17MagicCrystal_Ball14ViewControllerC", "UIEventSubtype"]
+- ["17MagicCrystal_Ball14ViewControllerC", "UILabel"]
+- !private ["17MagicCrystal_Ball14ViewControllerC", "UInt32"]
+- ["17MagicCrystal_Ball14ViewControllerC", "answerLabel"]
+- ["17MagicCrystal_Ball14ViewControllerC", "answers"]
+- !private ["17MagicCrystal_Ball14ViewControllerC", "arc4random_uniform"]
+- ["17MagicCrystal_Ball14ViewControllerC", "didReceiveMemoryWarning"]
+- ["17MagicCrystal_Ball14ViewControllerC", "generateAnswer"]
+- ["17MagicCrystal_Ball14ViewControllerC", "init"]
+- ["17MagicCrystal_Ball14ViewControllerC", "motionEnded"]
+- ["17MagicCrystal_Ball14ViewControllerC", "shakeButton"]
+- ["17MagicCrystal_Ball14ViewControllerC", "shakeButtonTapped"]
+- ["17MagicCrystal_Ball14ViewControllerC", "viewDidLoad"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UInt32"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "answerLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "answers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arc4random_uniform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- "SK"
+- !private "Sz"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "So14UIEventSubtypeV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "SM"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "Sk"
+- "Sm"
+- !private "SY"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s6UInt32V"
+- !private "SU"
+- "17MagicCrystal_Ball14ViewControllerC"
+- !private "s18_BitwiseOperationsP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f8c2ca8bc26548425f38743749ec49d4"

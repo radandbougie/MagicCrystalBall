@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>01DB5151-A57C-40A6-9F56-625C9378DC58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01DB5151-A57C-40A6-9F56-625C9378DC58.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MagicCrystal-Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MagicCrystal-Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>timeStartedRecording</key>
+			<real>562184865.47010696</real>
+			<key>timeStoppedRecording</key>
+			<real>562184886.16393805</real>
+			<key>title</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>01DB5151-A57C-40A6-9F56-625C9378DC58</string>
+		</dict>
+		<key>2BE00E0A-8B01-43DC-BB9F-96939CAA6E89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2BE00E0A-8B01-43DC-BB9F-96939CAA6E89.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MagicCrystal-Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MagicCrystal-Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>timeStartedRecording</key>
+			<real>562184815.54840302</real>
+			<key>timeStoppedRecording</key>
+			<real>562184831.05689704</real>
+			<key>title</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>2BE00E0A-8B01-43DC-BB9F-96939CAA6E89</string>
+		</dict>
+		<key>48155DE4-4EF6-4BE8-970F-BA7815D12508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48155DE4-4EF6-4BE8-970F-BA7815D12508.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MagicCrystal-Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MagicCrystal-Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>timeStartedRecording</key>
+			<real>562184191.41547298</real>
+			<key>timeStoppedRecording</key>
+			<real>562184193.72256804</real>
+			<key>title</key>
+			<string>Build MagicCrystal-Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>48155DE4-4EF6-4BE8-970F-BA7815D12508</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
